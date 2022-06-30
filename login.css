@@ -1,0 +1,15 @@
+.formulario{
+    background-color: rgba(200, 155, 100, 0.5);
+    display: flex;
+    justify-content: center;
+    text-align: center;
+    padding: 2rem;
+    }
+
+    .group-form{
+        margin-bottom: 1rem;
+    }
+
+    .fondo{
+        background-image: url('img/fondo.jpeg');
+    }
